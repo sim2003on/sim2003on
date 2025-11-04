@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-<img align="right" height="150" src="https://i.imgflip.com/ab24qd.gif" alt="meme" />
+<img height="150" src="https://i.imgflip.com/ab24qd.gif" alt="meme" />
 
 <div align="center">
 
