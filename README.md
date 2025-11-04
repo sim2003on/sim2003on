@@ -61,14 +61,4 @@
   <a href="https://open.spotify.com/user/31fxf2qxifzxi4ozqs7ou5xspxxa" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fxf2qxifzxi4ozqs7ou5xspxxa&count=5&width=400" alt="Spotify" />
   </a>
-
-
-
 </div>
-
-<script>
-  document.querySelectorAll('a[href^="http"]').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
-</script>
