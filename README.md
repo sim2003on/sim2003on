@@ -1,5 +1,9 @@
 <h1 align="center">Welcome, I'm Simon 👋</h1>
 
+<br/><br/>
+
+<img align="right" height="150" src="https://i.imgflip.com/ab24qd.gif" alt="meme" />
+
 <div align="center">
 
   <!-- GitHub Stats -->
@@ -58,8 +62,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fxf2qxifzxi4ozqs7ou5xspxxa&count=5&width=400" alt="Spotify" />
   </a>
 
-  <br/><br/>
 
-  <img align="right" height="150" src="https://i.imgflip.com/ab24qd.gif" alt="meme" />
 
 </div>
