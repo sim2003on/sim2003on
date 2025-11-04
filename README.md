@@ -60,12 +60,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sim2003on/sim2003on/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31fxf2qxifzxi4ozqs7ou5xspxxa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fxf2qxifzxi4ozqs7ou5xspxxa&count=5" alt="Spotify recently played"  />
