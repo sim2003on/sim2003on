@@ -1,10 +1,10 @@
 <h1 align="center">Welcome, I'm Simon 👋</h1>
 
-<br/><br/>
-
-<img align="center" height="150" src="https://i.imgflip.com/ab24qd.gif" alt="meme" />
-
 <div align="center">
+
+  <!-- GIF -->
+  <img src="https://i.imgflip.com/ab24qd.gif" height="150" alt="hit" />
+  <br/><br/>
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sim2003on&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=en" height="150" alt="stats" />
