@@ -7,7 +7,6 @@
   <br/><br/>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sim2003on&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=en" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sim2003on&layout=compact&langs_count=5&theme=dracula&hide_border=true&locale=en" height="150" alt="languages" />
 
   <br/><br/>
