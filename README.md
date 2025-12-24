@@ -2,15 +2,6 @@
 
 <div align="center">
 
-  <!-- GIF -->
-  <img src="https://i.imgflip.com/ab24qd.gif" height="150" alt="hit" />
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sim2003on&layout=compact&langs_count=5&theme=dracula&hide_border=true&locale=en" height="150" alt="languages" />
-
-  <br/><br/>
-
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   </a>
